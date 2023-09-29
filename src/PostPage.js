@@ -1,6 +1,5 @@
 import React, { useContext } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import EditPost from './EditPost';
 import DataContext from './context/DataContext';
 
 const PostPage = () => {
