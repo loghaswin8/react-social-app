@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "datetime": "September 26, 2023 5:31:01 PM",
+      "body": "Made a video about Tesla Q1 results. Elon Musk"
+    },
+    {
+      "id": 2,
+      "title": "Naruto1",
+      "datetime": "September 26, 2023 5:31:47 PM",
+      "body": "Gaara is death!"
+    },
+    {
+      "id": 3,
+      "title": "Naruto2",
+      "datetime": "September 26, 2023 5:32:22 PM",
+      "body": "Gaara is death! but he was saved by granny cheo"
+    },
+    {
+      "id": 4,
+      "title": "React",
+      "datetime": "September 28, 2023 7:10:09 PM",
+      "body": "I completed react full course successfully "
+    }
+  ]
+}
