@@ -1,12 +1,6 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "My first post",
-      "datetime": "September 26, 2023 5:31:01 PM",
-      "body": "Made a video about Tesla Q1 results. Elon Musk"
-    },
-    {
       "id": 2,
       "title": "Naruto1",
       "datetime": "September 26, 2023 5:31:47 PM",
@@ -21,8 +15,8 @@
     {
       "id": 4,
       "title": "React",
-      "datetime": "September 28, 2023 7:10:09 PM",
-      "body": "I completed react full course successfully "
+      "datetime": "September 30, 2023 8:34:50 PM",
+      "body": "I completed react full course successfully and now practicing"
     }
   ]
 }
